@@ -1,4 +1,5 @@
 tasks = []
+#I can add urgency and importance levels here
 
 
 def addTask():
